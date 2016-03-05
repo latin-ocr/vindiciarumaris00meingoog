@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciarumaris00meingoog_0013.png"; bbox 0 0 2859 4909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 820 1999 1047">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 820 1999 1047">
+     <span class='ocr_line' id='line_1_1' title="bbox 629 820 1999 1047; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 629 820 1999 1047; x_wconf 78' lang='lat' dir='ltr'>VINDICIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 302 1381 2326 1514">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 302 1381 2326 1514">
+     <span class='ocr_line' id='line_1_2' title="bbox 302 1381 2326 1514; baseline 0 -6"><span class='ocrx_word' id='word_1_2' title='bbox 302 1382 634 1508; x_wconf 82' lang='lat' dir='ltr'>ARI</span> <span class='ocrx_word' id='word_1_3' title='bbox 666 1382 1595 1514; x_wconf 77' lang='lat' dir='ltr'><strong>STOPHAN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1627 1381 2149 1511; x_wconf 85' lang='lat' dir='ltr'>EARU</span> <span class='ocrx_word' id='word_1_5' title='bbox 2182 1382 2326 1508; x_wconf 87' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1074 1780 1580 1852">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1074 1780 1580 1852">
+     <span class='ocr_line' id='line_1_3' title="bbox 1074 1780 1580 1852; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 1074 1780 1580 1852; x_wconf 90' lang='lat' dir='ltr'><strong>LIBER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1200 2254 1471 2292">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1200 2254 1471 2292">
+     <span class='ocr_line' id='line_1_4' title="bbox 1200 2254 1471 2292; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1200 2254 1471 2292; x_wconf 82' lang='lat' dir='ltr'>SSSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 706 2530 1956 2654">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 706 2530 1956 2654">
+     <span class='ocr_line' id='line_1_5' title="bbox 706 2530 1956 2654; baseline -0.002 -48"><span class='ocrx_word' id='word_1_8' title='bbox 706 2532 1326 2608; x_wconf 87' lang='lat' dir='ltr'>AUGUSTUS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1386 2530 1956 2654; x_wconf 49' lang='lat' dir='ltr'><strong>QEINEKE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 623 3822 2067 4012">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 623 3822 2067 4012">
+     <span class='ocr_line' id='line_1_6' title="bbox 623 3822 2067 3905; baseline 0.001 -34"><span class='ocrx_word' id='word_1_10' title='bbox 623 3822 719 3872; x_wconf 87' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_11' title='bbox 760 3822 1110 3873; x_wconf 87' lang='lat' dir='ltr'><strong>OFFICINA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1149 3822 1594 3905; x_wconf 54' lang='lat' dir='ltr'><strong>BERNJJARDI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1631 3824 2067 3875; x_wconf 84' lang='lat' dir='ltr'>TAUCHNITZ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 976 3960 1719 4012; baseline 0.004 -3"><span class='ocrx_word' id='word_1_14' title='bbox 976 3961 1260 4011; x_wconf 90' lang='lat' dir='ltr'>LIPSIAE</span> <span class='ocrx_word' id='word_1_15' title='bbox 1298 3960 1719 4012; x_wconf 90' lang='lat' dir='ltr'><strong>MDCCCLXV.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
